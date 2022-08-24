@@ -1,0 +1,88 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Miliónová bankovka",
+  "author": "Mark Twain",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "twain-milionova-bankovka-7983831",
+  "revision": "7983831",
+  "readingOrder": [
+    "promo.html",
+    "milionova_bankovka_005.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Aug 24 2022 10:42:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661337728544
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "milionova_bankovka_005.html",
+      "toc": []
+    },
+    {
+      "title": "Miliónová bankovka",
+      "file": "milionova_bankovka_005.html",
+      "words": 7495,
+      "chars": 42615,
+      "ideas": 174,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 143,
+      "chars": 933,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
+      "prev": "milionova_bankovka_005.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 7644,
+      "chars": 43587,
+      "ideas": 196
+    },
+    "chapters": {
+      "words": 7495,
+      "chars": 42615,
+      "ideas": 174
+    }
+  }
+}
