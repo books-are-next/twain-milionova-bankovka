@@ -8,16 +8,16 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "twain-milionova-bankovka-b3afa30",
-  "revision": "b3afa30",
+  "identifier": "twain-milionova-bankovka-d2f9080",
+  "revision": "d2f9080",
   "readingOrder": [
     "promo.html",
     "milionova_bankovka_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:06:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640390589
+    "date": "Tue Oct 04 2022 16:54:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902498460
   },
   "documents": [
     {
@@ -55,9 +55,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 143,
+      "words": 140,
       "chars": 933,
-      "ideas": 18,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "milionova_bankovka_005.html",
@@ -75,9 +75,9 @@
   ],
   "totals": {
     "all": {
-      "words": 7644,
+      "words": 7641,
       "chars": 43587,
-      "ideas": 196
+      "ideas": 193
     },
     "chapters": {
       "words": 7495,
