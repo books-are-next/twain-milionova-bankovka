@@ -8,16 +8,16 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "twain-milionova-bankovka-ba9c49f",
-  "revision": "ba9c49f",
+  "identifier": "twain-milionova-bankovka-412e16d",
+  "revision": "412e16d",
   "readingOrder": [
     "promo.html",
     "milionova_bankovka_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:07:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924831423
+    "date": "Fri Oct 07 2022 13:50:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150630520
   },
   "documents": [
     {
