@@ -8,7 +8,8 @@ Překlad Zdeněk Urbánek
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 10. 10. 2022.
+ISBN 978-80-274-2807-6 (webová kniha)  
+V MKP 2. elektronické vydání z 17. 10. 2022.
 
 ***
 
