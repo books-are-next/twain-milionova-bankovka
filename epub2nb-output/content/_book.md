@@ -14,6 +14,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
+  isbn: 978-80-274-2807-6
 readingOrder:
   - promo.html
   - milionova_bankovka_005.html
